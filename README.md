@@ -1,2 +1,2 @@
 # Classificados_mvc
-Reprodução do projeto classificados ,porém em no padrão mvc.
+Reprodução do projeto classificados ,porém no padrão mvc.
